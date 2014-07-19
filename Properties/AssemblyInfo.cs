@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("NotificationIconSample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Quppa.net")]
 [assembly: AssemblyProduct("NotificationIconSample")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+[assembly: AssemblyCopyright("Copyright © David Warner 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
