@@ -1,0 +1,2 @@
+WPF-Notification-Area-Icon
+==========================
